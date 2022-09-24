@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+D:\Code\dataSL\.metadata\.plugins\org.eclipse.jdt.core
+223881628.index
+1630579643.index
+453955381.index
+398925468.index
+3528238001.index
+923941691.index
+2513093821.index
+1551969265.index
+1039306593.index
+1067094681.index
+468107086.index
+2574794399.index
+460187341.index
+626612610.index
+4184561138.index
+356327.index
+2386850106.index
+2904636744.index
